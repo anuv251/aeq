@@ -2,7 +2,7 @@
 2. Verify password text box is present.
 3. Verify Login button is present.
 4. Verify user is able to login successfully using usernames {
-standard_user with correct password(secret_sauce) 
+standard_user with correct password(secret_sauce)
 
 5. Verify user is able to login successfully using usernames {
 performance_glitch_user with correct password(secret_sauce) but landing page delays in opening (performance is slow) 
